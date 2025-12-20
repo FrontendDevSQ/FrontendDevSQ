@@ -1,7 +1,8 @@
 ![logo](https://github.com/FrontendDevSQ/FrontendDevSQ/blob/main/githubbanner1.png)
 <h1 align="center">Hi 👋, I'm Shafaq Abdul Moiz</h1>
 <h3 align="center">Frontend Developer | Building Interactive Websites & Apps</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c750d13d9761f9bfa715bcd06dc5b8c5430811546014e3b40118dd27ab9a46b6/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d4f307531624e48732d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3838302f68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a5058663567653751434e3947615f434c2e676966"/>
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/05563068-e98f-453d-98aa-7f810fc22c0f"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frontenddevsq&label=Profile%20views&color=0e75b6&style=flat" alt="frontenddevsq" /> </p>
 
