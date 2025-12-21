@@ -1,4 +1,4 @@
-![logo](https://github.com/FrontendDevSQ/FrontendDevSQ/blob/main/githubbanner1.png)
+<img width="1584" height="396" alt="ok (1)" src="https://github.com/user-attachments/assets/c8a36b1e-5c94-4421-841f-0e489e6ea6de" />
 <h1 align="center">Hi 👋, I'm Shafaq Abdul Moiz</h1>
 <h3 align="center">Frontend Developer | Building Interactive Websites & Apps</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/05563068-e98f-453d-98aa-7f810fc22c0f"/>
